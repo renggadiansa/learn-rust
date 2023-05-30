@@ -1,1 +1,4 @@
 nama variable bisa diubah jika namanya "let mut", sedangkan jika hanya menggunakan "let" saja maka nilai dalam variable tersebut tidak bisa diubah
+
+
+'counting_up merupakan label yang ditandai dengan tanda petik sebelum nama label
